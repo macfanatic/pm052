@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
-gem "ProMotion", path: "../ProMotion"
+gem "bubble-wrap"
+gem "ProMotion"
+gem "motion-cocoapods"
+gem 'pro_motion_slide_menu'
